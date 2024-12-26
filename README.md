@@ -10,6 +10,7 @@ Public repository for Comet containing wiki and issues.
 - "Once" or "Instant" rate component or dictionary/map based rate component to simplify customizing particle spawning rates
 - Random sprite component (technically possible with javascript but could be made easier)
 - Default components
+- Snowstorm file conversion
 - Better color input method
 - Standardize vector inputs (either "x" "y" "z" fields or arrays)
 - More informative formatting errors
