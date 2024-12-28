@@ -2,9 +2,7 @@
 Public repository for Comet containing wiki and issues.
 
 # TODO:
-- Emitter bundling (multiple emitters spawned with one command)
 - Folders for effects (better file organization)
-- Remove need for `\"` around text input
 - Ensure all inputs can handle integers, doubles, and simple numbers without quotations
 - Emitter max lifetime component
 - "Once" or "Instant" rate component or dictionary/map based rate component to simplify customizing particle spawning rates
