@@ -21,7 +21,6 @@ Public repository for Comet containing wiki and issues.
 
 ## Features needed for full-ish Snowstorm integration:
 - maximum particle amount for spawn rate components
-- instant spawn rate component
 - sphere, box, disc spawn shape
 - events system
 - variables system
