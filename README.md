@@ -18,3 +18,10 @@ Public repository for Comet containing wiki and issues.
 - Javascript optimization with caching (massive CPU-usage optimization)
 - Particle data lookahead (for proper interpolation)
 - Spawn back particles in once player is back in view.
+
+## Features needed for full-ish Snowstorm integration:
+- maximum particle amount for spawn rate components
+- instant spawn rate component
+- sphere, box, disc spawn shape
+- events system
+- variables system
