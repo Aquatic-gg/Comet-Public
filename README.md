@@ -3,7 +3,6 @@ Public repository for Comet containing wiki and issues.
 
 # TODO:
 - Folders for effects (better file organization)
-- Emitter max lifetime component
 - Random sprite component (technically possible with javascript but could be made easier)
 - Snowstorm file conversion
 - Better color input method
@@ -22,4 +21,3 @@ Public repository for Comet containing wiki and issues.
 - maximum particle amount for spawn rate components
 - box, disc spawn shape
 - events system
-- variables system
