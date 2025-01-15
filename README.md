@@ -9,8 +9,6 @@ Public repository for Comet containing wiki and issues.
 - More informative formatting errors
 - Cross-file macros
 - Local/global emitter movement options
-- Fully fledged variables system with triggers such as on_emitter_spawn, on_emitter_tick, on_particle_spawn, etc
-- Actions system which can be triggered by events (kill particle, kill emitter, change variable, etc)
 - Removal of teleportation packet usage (allow for smooth movement in versions before teleportation duration (like 1.19.4))
 - Support for vanilla particle spawning
 - Javascript optimization with caching (massive CPU-usage optimization)
@@ -20,4 +18,3 @@ Public repository for Comet containing wiki and issues.
 ## Features needed for full-ish Snowstorm integration:
 - maximum particle amount for spawn rate components
 - box, disc spawn shape
-- events system
