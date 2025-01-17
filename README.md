@@ -16,5 +16,6 @@ Public repository for Comet containing wiki and issues.
 - Spawn back particles in once player is back in view.
 
 ## Features needed for full-ish Snowstorm integration:
+- curve definition component (just need to separate it from macros)
 - maximum particle amount for spawn rate components
 - box, disc spawn shape
