@@ -18,3 +18,6 @@ Public repository for Comet containing wiki and issues.
 - curve definition component (just need to separate it from macros)
 - maximum particle amount for spawn rate components
 - box, disc spawn shape
+### Challenges: 
+- molang -> js
+- variable definitions
